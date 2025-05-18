@@ -4,6 +4,11 @@
 
 ---
 
+## 👀 Profile Views
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+
+---
+
 ## 🚀 Languages and Tools I Use
 
 <p align="left">
@@ -35,4 +40,3 @@
 ## 📊 My GitHub Stats
 
 ![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark)
-
