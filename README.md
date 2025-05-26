@@ -32,8 +32,8 @@
 
 ## 🌍 Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/jeyaruban-jenusan-6118b5275/)])
-[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)]([(https://www.facebook.com/jenu.jenu.311056/)])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeyaruban-jenusan-6118b5275/)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://www.facebook.com/jenu.jenu.311056/)
 
 ---
 
