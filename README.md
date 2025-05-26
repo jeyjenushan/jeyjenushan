@@ -9,11 +9,6 @@
 
 ---
 
-## 👀 Profile Views
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=jeyjenushan.jeyjenushan)
-
----
-
 ## 🚀 Languages and Tools I Use
 
 <p align="left">
