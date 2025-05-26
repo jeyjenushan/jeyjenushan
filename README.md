@@ -40,3 +40,12 @@
 ## 📊 My GitHub Stats
 
 ![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeyjenushan&show_icons=true&theme=dark)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeyjenushan&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyjenushan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
