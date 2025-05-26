@@ -47,4 +47,5 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyjenushan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeyjenushan&show_icons=true&locale=en&layout=compact" alt="jeyjenushan" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeyjenushan" alt="jeyjenushan" /></a></p>
