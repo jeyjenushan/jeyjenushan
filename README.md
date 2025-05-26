@@ -5,7 +5,7 @@
 ---
 
 ## 👀 Profile Views
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=jeyjenushan.jeyjenushan)
 
 ---
 
@@ -32,11 +32,11 @@
 
 ## 🌍 Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://www.facebook.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/jeyaruban-jenusan-6118b5275/)])
+[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)]([(https://www.facebook.com/jenu.jenu.311056/)])
 
 ---
 
 ## 📊 My GitHub Stats
 
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark)
+![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeyjenushan&show_icons=true&theme=dark)
