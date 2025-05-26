@@ -1,6 +1,11 @@
-# Hi 👋, I'm JeyJenushan
+<h1 align="center">Hi 👋, I'm Thushakaran</h1>
+<h3 align="center">A passionate Software Developer from Sri Lanka</h3>
 
-## 🏫 Undergraduate Software Engineer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeyjenushan&label=Profile%20views&color=0e75b6&style=flat" alt="Jenushan" /> </p>
+
+- 👨‍💻 All of my projects are available at **https://github.com/jeyjenushan**
+- 💬 Ask me about **Web development**
+- 📫 Reach me at **jeyarubanjenushan3@gmail.com**
 
 ---
 
@@ -39,7 +44,6 @@
 
 ## 📊 My GitHub Stats
 
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeyjenushan&show_icons=true&theme=dark)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jeyjenushan&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
