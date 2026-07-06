@@ -273,9 +273,9 @@ Built REST APIs and responsive interfaces while gaining hands-on cloud and micro
 
 ### 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/jeyjenushan/jeyjenushan/output/github-contribution-grid-snake-dark.svg"/>
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeyjenushan&theme=tokyo-night">
+</p>
 
 ---
 
