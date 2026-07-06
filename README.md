@@ -240,34 +240,15 @@ Built REST APIs and responsive interfaces while gaining hands-on cloud and micro
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Streak
 
-<div align="center">
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=jeyjenushan&theme=tokyonight&hide_border=true">
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jeyjenushan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyjenushan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
 
-<br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=jeyjenushan&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
 
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jeyjenushan&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8"/>
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jeyjenushan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff"/>
-</div>
 
 ---
 
