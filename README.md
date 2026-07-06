@@ -240,10 +240,11 @@ Built REST APIs and responsive interfaces while gaining hands-on cloud and micro
 
 ---
 
-### 📊 GitHub Streak
+
+<h3 align="center">🔥 GitHub Streak</h3>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=jeyjenushan&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=dayastant&theme=tokyonight&hide_border=true">
 </p>
 
 
